@@ -82,3 +82,10 @@ next steps
 nearest neighbors (knn)
 confusion matrix - how to visualize that, heatmap the confusion matrix? 
 throw these into streamlit and do a wordcloud generator
+
+
+
+
+Jan 25th
+
+clientfinaldropped.csv

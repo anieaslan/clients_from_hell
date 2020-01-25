@@ -50,7 +50,7 @@ df = pd.read_csv('clientfinaldropped.csv')
     # continue # add in the line where we use the scraper
 
 
-# Prepare the data for Model testing
+# PREPARE THE DATA FOR MODEL TESTING
 features = df[[col for col in df != 'Type']].fillna(0)
 target = df['Type']
 
